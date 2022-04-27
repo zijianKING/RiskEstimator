@@ -19,6 +19,23 @@ The goal is to assess the market risk of any custom built portfolios (provided t
 ## Project Site: 
 http://risk.zjtoronto.com:8000/
 
+## Current Phase:
+The current website is able to pull market data from Yahoo Fiance, and portfolio weight assignment as well as risk estimation function is still under development.
+
+### Current Web app Details:
+1) [Stock Porfolio Section](http://127.0.0.1:8000/stocks/):
+  - This tab is designed to let user build up their own portfolio
+  - The weight function is still in progress
+ <img width="1153" alt="image" src="https://user-images.githubusercontent.com/31417311/165530436-8073fcb2-4e86-4035-b3ae-262dc9a734c8.png">
+
+2) [Dashboard Section](http://risk.zjtoronto.com:8000/dashboard/)
+  - The website is able to retreieve stock historical data from Yahoo Fiance in the  Section
+  <img width="1101" alt="image" src="https://user-images.githubusercontent.com/31417311/165529613-0c9ee935-1db3-4eda-92d9-647eb1f934d1.png">
+  - However, the user need to save tickers data in a `Companylist.csv` file
+
+3) [Stock Look Up](http://127.0.0.1:8000/)
+  - Look up the stock price and info on Yahoo Finance 
+
 ## Libraries and Dependencies
 werkzeug==2.0.3<br/>
 dataframe-image<br/>
@@ -46,7 +63,7 @@ Notice that the website is developed on MacBook with M1 chip, there may be some 
 
 Shoot me an email if anything doesn't work for you
 
-## Details
+## Technical Specification
 I used Python Django Framework and build up a quick web app to track stock ticker information and price. Then using Dash apps the information is graphed with multiple tickers in an interactive graphic.
 
 Plotly Dash (with Django)
