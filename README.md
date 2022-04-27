@@ -6,7 +6,7 @@ For this repo, the Jupyter Notebook File can be found:
 [JupyterNotebook](https://github.com/zijianKING/RiskEstimator/blob/main/JupyterNotebook/Programming_and_Risk_Calculation.ipynb)
 
 # Bonus Project:
-## Project Scope
+## Project Description
 Build an interactive website that does the following.
 
 (1) Build a customized portfolio of equities (index ETFs or single names like AAPL) with a UI allowing users to pick and allocate weights to individual equities. The sample portfolio in Q1 above is an example.
