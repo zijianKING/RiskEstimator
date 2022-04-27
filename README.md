@@ -8,8 +8,11 @@ For this repo, the Jupyter Notebook File can be found:
 # Bonus Project:
 ## Project Scope
 Build an interactive website that does the following.
+
 (1) Build a customized portfolio of equities (index ETFs or single names like AAPL) with a UI allowing users to pick and allocate weights to individual equities. The sample portfolio in Q1 above is an example.
+
 (2) Pulls market data from Yahoo Finance (or your favorite financial market data vendor) for the equity portfolio constructed above.
+
 (3) Perform risk calculation of your customized portfolio using the investment risk methodology established above.
 The goal is to assess the market risk of any custom built portfolios (provided the required market data are available).
 
