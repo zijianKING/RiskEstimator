@@ -5,10 +5,7 @@ import json
 from .models import Stock
 from .forms import StockForm
 
-
-
 api_key = 'pk_aac20c2d838541f4b1e67cab41a66c60'		# Insert own Public Key from IEX.com
-
 
 def home(request):
 	if request.method == 'POST':

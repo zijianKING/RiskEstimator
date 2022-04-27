@@ -7,8 +7,8 @@ import pandas_datareader as web
 from django_plotly_dash import DjangoDash
 import yfinance as yf
 
-# File contains Stock tickers for all NASDAQ symbols
-nasdaq = pd.read_csv('data/NASDAQcompanylist.csv')
+# File contains Stock tickers
+nasdaq = pd.read_csv('data/Companylist.csv')
 
 
 # Plotly Dash App applied within Django
