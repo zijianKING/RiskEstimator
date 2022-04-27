@@ -30,9 +30,9 @@ The current website is able to pull market data from Yahoo Fiance, and portfolio
 
 2) [Dashboard Section](http://risk.zjtoronto.com:8000/dashboard/)
   - The website is able to retreieve stock historical data from Yahoo Fiance in the  Section
+  - However, the user need to save tickers data in a [Companylist.csv](https://github.com/zijianKING/RiskEstimator/tree/main/data) file
   <img width="1101" alt="image" src="https://user-images.githubusercontent.com/31417311/165529613-0c9ee935-1db3-4eda-92d9-647eb1f934d1.png">
-  - However, the user need to save tickers data in a `Companylist.csv` file
-
+  
 3) [Stock Look Up](http://127.0.0.1:8000/)
   - Look up the stock price and info on Yahoo Finance 
 
