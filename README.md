@@ -41,8 +41,8 @@ pandas_datareader<br/>
 Notice that the website is developed on MacBook with M1 chip, there may be some diffences when installing on a Windows or Mac with Intel Chip.
 
 3. A virtual environment is preferred. You can, for example, build it on [PyCharm](https://www.jetbrains.com/zh-cn/pycharm/) with "Add Python Interpreter" -> "Virtualenv Environment".
-4. 
-5. Run the website locally by input `python manage.py runserver` on the terminal
+
+4. Run the website locally by input `python manage.py runserver` on the terminal
 
 Shoot me an email if anything doesn't work for you
 
