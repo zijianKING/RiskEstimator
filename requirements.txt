@@ -1,0 +1,11 @@
+pandas
+requests
+datetime
+dash
+django-mathfilters
+numpy
+werkzeug==2.0.3
+channels
+yfinance
+channels-redis
+pandas_datareader
