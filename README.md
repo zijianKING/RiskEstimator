@@ -2,7 +2,7 @@
 Question 1 and 2 solution and implementation could be found at
 [Google Colab Run](https://colab.research.google.com/drive/1pXOhnbCG_tHUmtp6lOFY30H4_4tdWt4J?usp=sharing)
 
-For this repo, the Jupyter Notebook File can be found:
+If you can't access Google Colab, the corresponding Jupyter Notebook File can also be found at:
 [JupyterNotebook](https://github.com/zijianKING/RiskEstimator/blob/main/JupyterNotebook/Programming_and_Risk_Calculation.ipynb)
 
 # Bonus Project:
