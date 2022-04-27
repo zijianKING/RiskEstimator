@@ -35,10 +35,14 @@ channels-redis<br/>
 pandas_datareader<br/>
 
 ## Development Note
-1. Download all dependencies in requirements.txt by running `pip install -r requirements.txt` in command line.
-Notice that the website is developed on MacBook with M1 chip, there may be some errors when installing on a Windows or Mac with Intel Chip.
-2. A virtual environment is preferred. You can, for example, build it on [PyCharm](https://www.jetbrains.com/zh-cn/pycharm/) with "Add Python Interpreter" -> "Virtualenv Environment".
-3. Run the website locally by input `python manage.py runserver` on the terminal
+1. Install [Django](https://www.stanleyulili.com/django/how-to-install-django-on-windows/) Web Framework
+
+2. Download all dependencies in requirements.txt by running `pip install -r requirements.txt` in command line.
+Notice that the website is developed on MacBook with M1 chip, there may be some diffences when installing on a Windows or Mac with Intel Chip.
+
+3. A virtual environment is preferred. You can, for example, build it on [PyCharm](https://www.jetbrains.com/zh-cn/pycharm/) with "Add Python Interpreter" -> "Virtualenv Environment".
+4. 
+5. Run the website locally by input `python manage.py runserver` on the terminal
 
 Shoot me an email if anything doesn't work for you
 
