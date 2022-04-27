@@ -2,7 +2,7 @@
 Question 1 and 2 solution and implementation could be found at
 https://colab.research.google.com/drive/1pXOhnbCG_tHUmtp6lOFY30H4_4tdWt4J?usp=sharing
 
-For this repo, the Jupyter Notebook File is also at:
+For this repo, the Jupyter Notebook File can be found:
 JupyterNotebook/Programming_and_Risk_Calculation.ipynb
 
 ## Bonus Project:
